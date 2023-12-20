@@ -1,5 +1,7 @@
 # Spring Security Demo List
 
+![](./doc/imgs/spring.png)
+
 &emsp;This is the Demo and notes I wrote while learning Spring Security. The specific contents are as follows:
 
 - [spring-security-demo1](https://github.com/NingNing0111/spring-security-study/tree/master/spring-security-demo1): This is an example of a simple program that outputs "Hello World".
