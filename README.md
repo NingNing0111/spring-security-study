@@ -10,3 +10,4 @@ The corresponding notes are as follows:
 
 - [Overview](https://github.com/NingNing0111/spring-security-study/blob/master/doc/1.overview.md): demo1
 - [Authentication](https://github.com/NingNing0111/spring-security-study/blob/master/doc/2.authentication.md): demo1 & demo2
+- [Authorization](https://github.com/NingNing0111/spring-security-study/blob/master/doc/3.authorization.md): demo3
